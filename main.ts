@@ -1,1 +1,1 @@
-console.log("Employee Management Application");
+console.log("Employee Application");
