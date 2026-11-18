@@ -1,5 +1,5 @@
 function employeeLogin() {
-    console.log("Employee Login - Master Branch");
+    console.log("Employee Login - Master and Conflict Branch Resolution");
     console.log("Login Validation");
     console.log("Validate Username");
     console.log("Validate Password");
