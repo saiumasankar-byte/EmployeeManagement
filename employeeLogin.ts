@@ -4,4 +4,5 @@ function employeeLogin() {
     console.log("Validate Username");
     console.log("Validate Password");
     console.log("Login Successful");
+    console.log("Login bug fixed");
 }
